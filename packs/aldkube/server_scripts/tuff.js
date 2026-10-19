@@ -3,7 +3,7 @@ ServerEvents.recipes(event => {
     'minecraft:tuff',
     [
       '2x minecraft:andesite',
-      '2x create:powdered_obsidian',
+      '1x create:powdered_obsidian',
       Fluid.of('minecraft:lava', 250)
     ]
   )
